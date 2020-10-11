@@ -70,6 +70,16 @@
     </url>
     
     <url>
+        <loc>/tags/finger/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/pets/</loc>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
         <loc>/tags/borogoves/</loc>
         <priority>0.3</priority>
     </url>
@@ -84,16 +94,6 @@
         <priority>0.3</priority>
     </url>
     
-    <url>
-        <loc>/tags/finger/</loc>
-        <priority>0.3</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/pets/</loc>
-        <priority>0.3</priority>
-    </url>
-    
 
     <url>
         <loc>/categories/</loc>
@@ -101,12 +101,12 @@
     </url>
     
     <url>
-        <loc>/categories/kōans/</loc>
+        <loc>/categories/poetry/</loc>
         <priority>0.3</priority>
     </url>
     
     <url>
-        <loc>/categories/poetry/</loc>
+        <loc>/categories/kōans/</loc>
         <priority>0.3</priority>
     </url>
     
@@ -117,7 +117,7 @@
     </url>
     
     <url>
-        <loc>/authors/Lewis Carroll/</loc>
+        <loc>/authors/Mumon/</loc>
         <priority>0.3</priority>
     </url>
     
@@ -127,7 +127,7 @@
     </url>
     
     <url>
-        <loc>/authors/Mumon/</loc>
+        <loc>/authors/Lewis Carroll/</loc>
         <priority>0.3</priority>
     </url>
     
