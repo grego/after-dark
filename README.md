@@ -29,7 +29,7 @@ theme = "after-dark"
 ```
 
 ## Colors
-You can change the main and accent color of this them by modifying the corresponding variables
+You can change the main and accent color of this theme by modifying the corresponding variables
 at the beginning of `assets/style.css`. 
 Then, run `blades colocate`.
 
