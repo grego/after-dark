@@ -2,7 +2,7 @@
 
 ![after-dark screenshot](screenshot.png)
 
-## [Live demo](https://blade386.netlify.app/)
+## [Live demo](https://blades-after-dark.netlify.app/)
 
 after-dark is a port of the eponymous theme for [Blades](https://github.com/grego/blades) based on:
 
